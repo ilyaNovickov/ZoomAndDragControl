@@ -1,0 +1,14 @@
+C:\Users\ACER\Documents\Projects\ZoomedGraphControl\FormExample\bin\Debug\FormExample.exe.config
+C:\Users\ACER\Documents\Projects\ZoomedGraphControl\FormExample\bin\Debug\FormExample.exe
+C:\Users\ACER\Documents\Projects\ZoomedGraphControl\FormExample\bin\Debug\FormExample.pdb
+C:\Users\ACER\Documents\Projects\ZoomedGraphControl\FormExample\obj\Debug\FormExample.csproj.AssemblyReference.cache
+C:\Users\ACER\Documents\Projects\ZoomedGraphControl\FormExample\obj\Debug\FormExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\Documents\Projects\ZoomedGraphControl\FormExample\obj\Debug\FormExample.Form1.resources
+C:\Users\ACER\Documents\Projects\ZoomedGraphControl\FormExample\obj\Debug\FormExample.Properties.Resources.resources
+C:\Users\ACER\Documents\Projects\ZoomedGraphControl\FormExample\obj\Debug\FormExample.csproj.GenerateResource.cache
+C:\Users\ACER\Documents\Projects\ZoomedGraphControl\FormExample\obj\Debug\FormExample.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\Projects\ZoomedGraphControl\FormExample\obj\Debug\FormExample.csproj.CopyComplete
+C:\Users\ACER\Documents\Projects\ZoomedGraphControl\FormExample\obj\Debug\FormExample.exe
+C:\Users\ACER\Documents\Projects\ZoomedGraphControl\FormExample\obj\Debug\FormExample.pdb
+C:\Users\ACER\Documents\Projects\ZoomedGraphControl\FormExample\bin\Debug\ZoomAndDragContolLib.dll
+C:\Users\ACER\Documents\Projects\ZoomedGraphControl\FormExample\bin\Debug\ZoomAndDragContolLib.pdb

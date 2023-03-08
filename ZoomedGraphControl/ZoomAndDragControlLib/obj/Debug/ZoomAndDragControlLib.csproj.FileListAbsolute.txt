@@ -1,0 +1,12 @@
+C:\Users\ACER\Documents\Projects\ZoomedGraphControl\ZoomedGraphControlLib\bin\Debug\ZoomAndDragContolLib.dll
+C:\Users\ACER\Documents\Projects\ZoomedGraphControl\ZoomedGraphControlLib\bin\Debug\ZoomAndDragContolLib.pdb
+C:\Users\ACER\Documents\Projects\ZoomedGraphControl\ZoomedGraphControlLib\obj\Debug\ZoomAndDragControlLib.csproj.AssemblyReference.cache
+C:\Users\ACER\Documents\Projects\ZoomedGraphControl\ZoomedGraphControlLib\obj\Debug\ZoomAndDragControlLib.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\Projects\ZoomedGraphControl\ZoomedGraphControlLib\obj\Debug\ZoomAndDragContolLib.dll
+C:\Users\ACER\Documents\Projects\ZoomedGraphControl\ZoomedGraphControlLib\obj\Debug\ZoomAndDragContolLib.pdb
+C:\Users\ACER\Documents\Projects\ZoomedGraphControl\ZoomAndDragControlLib\bin\Debug\ZoomAndDragContolLib.dll
+C:\Users\ACER\Documents\Projects\ZoomedGraphControl\ZoomAndDragControlLib\bin\Debug\ZoomAndDragContolLib.pdb
+C:\Users\ACER\Documents\Projects\ZoomedGraphControl\ZoomAndDragControlLib\obj\Debug\ZoomAndDragControlLib.csproj.AssemblyReference.cache
+C:\Users\ACER\Documents\Projects\ZoomedGraphControl\ZoomAndDragControlLib\obj\Debug\ZoomAndDragControlLib.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\Projects\ZoomedGraphControl\ZoomAndDragControlLib\obj\Debug\ZoomAndDragContolLib.dll
+C:\Users\ACER\Documents\Projects\ZoomedGraphControl\ZoomAndDragControlLib\obj\Debug\ZoomAndDragContolLib.pdb
