@@ -226,22 +226,24 @@ namespace ZoomAndDragContolLib
         protected override void OnPaint(PaintEventArgs e)
         {
             base.OnPaint(e);
-            //Настройка класса Graphics
-            //e.Graphics.PageUnit = GraphicsUnit.Pixel;//Еденицы измерения координат - пиксели
-            //e.Graphics.CompositingQuality = CompositingQuality.GammaCorrected;//Качество орисовки - с гаммо-коррекцией
-            //e.Graphics.TextRenderingHint = TextRenderingHint.ClearTypeGridFit;
-            //e.Graphics.PixelOffsetMode = PixelOffsetMode.HighQuality;//Порядок смещения пикселя для орисовки - высокий 
-            //e.Graphics.InterpolationMode = InterpolationMode.HighQualityBicubic;//Интерполяция - высокого качества, бикубическая
-            //Изменение значений матриц преобразования
-            //UpdateMatrices();
-            //e.Graphics.Transform = matrix;//Преобразование класса Graphics
-            //для рисования в соотведсвии с матрицей преобразования
-            //if (grid == true)//Если сетка - вкл
-            //    DrawGrid(e);//Рисовать сетку
-            //Методы проверки рисования
-            //e.Graphics.DrawString("HelloWorld!", new Font(new FontFamily(GenericFontFamilies.SansSerif), 72),
-            //    new SolidBrush(Color.Red), new Point(0, 0));
-            //e.Graphics.FillRectangle(new SolidBrush(Color.Yellow), new Rectangle(0, 0, 100, 100));
+            /*
+                //Настройка класса Graphics
+                e.Graphics.PageUnit = GraphicsUnit.Pixel;//Еденицы измерения координат - пиксели
+                e.Graphics.CompositingQuality = CompositingQuality.GammaCorrected;//Качество орисовки - с гаммо-коррекцией
+                e.Graphics.TextRenderingHint = TextRenderingHint.ClearTypeGridFit;
+                e.Graphics.PixelOffsetMode = PixelOffsetMode.HighQuality;//Порядок смещения пикселя для орисовки - высокий 
+                e.Graphics.InterpolationMode = InterpolationMode.HighQualityBicubic;//Интерполяция - высокого качества, бикубическая
+                //Изменение значений матриц преобразования
+                UpdateMatrices();
+                e.Graphics.Transform = matrix;//Преобразование класса Graphics
+                //для рисования в соотведсвии с матрицей преобразования
+                if (grid == true)//Если сетка - вкл
+                    DrawGrid(e);//Рисовать сетку
+                //Методы проверки рисования
+                e.Graphics.DrawString("HelloWorld!", new Font(new FontFamily(GenericFontFamilies.SansSerif), 72),
+                    new SolidBrush(Color.Red), new Point(0, 0));
+                e.Graphics.FillRectangle(new SolidBrush(Color.Yellow), new Rectangle(0, 0, 100, 100));
+            */
         }
         //Рисование сетки для элемента
         protected  void DrawGrid(PaintEventArgs e)
@@ -285,7 +287,7 @@ namespace ZoomAndDragContolLib
                 e.Graphics.DrawLine(new Pen(bigGridColor), x, top, x, bottom);
             }
             //Рисование линий сетки по горизонтали
-            for (float y = bigYOffset; y < right; y += bigGridStep)
+            for (float y = bigYOffset; y < bottom; y += bigGridStep)
             {
                 e.Graphics.DrawLine(new Pen(bigGridColor), left, y, right, y);
             }
