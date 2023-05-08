@@ -1,0 +1,8 @@
+C:\Users\ACER\Documents\Projects\ZoomedGraphControl\ZoomedGraphControlLib\bin\Debug\ZoomedGraphControlLib.dll
+C:\Users\ACER\Documents\Projects\ZoomedGraphControl\ZoomedGraphControlLib\bin\Debug\ZoomedGraphControlLib.pdb
+C:\Users\ACER\Documents\Projects\ZoomedGraphControl\ZoomedGraphControlLib\obj\Debug\ZoomedGraphControlLib.csproj.AssemblyReference.cache
+C:\Users\ACER\Documents\Projects\ZoomedGraphControl\ZoomedGraphControlLib\obj\Debug\ZoomedGraphControlLib.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\Projects\ZoomedGraphControl\ZoomedGraphControlLib\obj\Debug\ZoomedGraphControlLib.dll
+C:\Users\ACER\Documents\Projects\ZoomedGraphControl\ZoomedGraphControlLib\obj\Debug\ZoomedGraphControlLib.pdb
+C:\Users\ACER\Documents\Projects\ZoomedGraphControl\ZoomedGraphControlLib\obj\Debug\ZoomedGraphControlLib.UserControl1.resources
+C:\Users\ACER\Documents\Projects\ZoomedGraphControl\ZoomedGraphControlLib\obj\Debug\ZoomedGraphControlLib.csproj.GenerateResource.cache

@@ -1,0 +1,14 @@
+C:\Users\ACER\Documents\Projects\ZoomAndDragControlSolutiin\TestFormApp\bin\Debug\TestFormApp.exe.config
+C:\Users\ACER\Documents\Projects\ZoomAndDragControlSolutiin\TestFormApp\bin\Debug\TestFormApp.exe
+C:\Users\ACER\Documents\Projects\ZoomAndDragControlSolutiin\TestFormApp\bin\Debug\TestFormApp.pdb
+C:\Users\ACER\Documents\Projects\ZoomAndDragControlSolutiin\TestFormApp\bin\Debug\ZoomAndDragContolLib.dll
+C:\Users\ACER\Documents\Projects\ZoomAndDragControlSolutiin\TestFormApp\bin\Debug\ZoomAndDragContolLib.pdb
+C:\Users\ACER\Documents\Projects\ZoomAndDragControlSolutiin\TestFormApp\obj\Debug\TestFormApp.csproj.AssemblyReference.cache
+C:\Users\ACER\Documents\Projects\ZoomAndDragControlSolutiin\TestFormApp\obj\Debug\TestFormApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\Documents\Projects\ZoomAndDragControlSolutiin\TestFormApp\obj\Debug\TestFormApp.Form1.resources
+C:\Users\ACER\Documents\Projects\ZoomAndDragControlSolutiin\TestFormApp\obj\Debug\TestFormApp.Properties.Resources.resources
+C:\Users\ACER\Documents\Projects\ZoomAndDragControlSolutiin\TestFormApp\obj\Debug\TestFormApp.csproj.GenerateResource.cache
+C:\Users\ACER\Documents\Projects\ZoomAndDragControlSolutiin\TestFormApp\obj\Debug\TestFormApp.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\Projects\ZoomAndDragControlSolutiin\TestFormApp\obj\Debug\TestFormApp.csproj.CopyComplete
+C:\Users\ACER\Documents\Projects\ZoomAndDragControlSolutiin\TestFormApp\obj\Debug\TestFormApp.exe
+C:\Users\ACER\Documents\Projects\ZoomAndDragControlSolutiin\TestFormApp\obj\Debug\TestFormApp.pdb
